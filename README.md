@@ -6,7 +6,7 @@ a11y_statement: "https://apps.apple.com/pt/app/sigame/id6502632431" # Entre as a
 owner: "	Ministério da Saúde UNIDADE LOCAL DE SAÚDE DA PÓVOA DE VARZIM/VILA DO CONDE"         # Entre as aspas escrever o nome do owner da app
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
-status: "Auditoria a decorrer" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
 # Relatório de auditoria
